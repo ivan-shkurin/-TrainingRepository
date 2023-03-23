@@ -1,0 +1,3 @@
+[submodule "Submodul"]
+	path = Submodul
+	url = https://github.com/ivan-shkurin/SubmoduleRepository/
